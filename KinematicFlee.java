@@ -1,5 +1,3 @@
-# KinematicFlee-Wandering-Implementation
-
 package movement;
 
 /**
